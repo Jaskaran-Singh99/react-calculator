@@ -3,7 +3,7 @@ import { useReducer } from 'react'
 import {Backspace, Digit, Equals} from './digit.jsx'
 import {ClearDigit} from './digit.jsx'
 import './index.css'
-
+// hanji
 export const ACTIONS = {
     Operand:'Operand',
     Clear:'Clear',
